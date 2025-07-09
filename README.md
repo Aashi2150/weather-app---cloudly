@@ -2,6 +2,7 @@
 
 Cloudly is a simple, clean, and responsive weather app built using **React** and the **OpenWeatherMap API**.  
 It lets you check the current weather conditions, get an hourly forecast, and toggle between dark/light themes and Celsius/Fahrenheit units.
+screenshot attached in SRC. 
 
 ✨ Features
 
